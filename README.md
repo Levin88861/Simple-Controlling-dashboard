@@ -1,4 +1,5 @@
 # Simples-Controlling-dashboard (Lernprojekt)
+![Dashboard Vorschau](Controlling dashboard.PNG)
 Ein lokal lauffähiger Prototyp für ein automatisiertes monatliches Abweichungs-Controlling. Die App demonstriert, wie standardisierte ERP-Exporte (Soll-/Ist-Vergleiche) automatisiert eingelesen, visuell aufbereitet und mithilfe eines lokalen KI-Sprachmodells voranalysiert werden können.
 
 ## ⚙️ Funktionsweise des Prototyps
